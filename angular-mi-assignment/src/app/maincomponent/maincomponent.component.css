@@ -1,0 +1,54 @@
+.mainbox {
+    height: 300px;
+    width: 100%;
+    /* padding: 22px; */
+    margin: 20px;
+    background-color:rgb(255, 255, 255);
+    color: rgb(15, 15, 15);
+    float: left;
+    box-shadow: 2px 2px 5px gray;
+    padding-bottom: 10px;
+    margin-top: 45px;
+     
+}
+
+
+.left
+{
+    display: table;
+    width: 99%;
+    
+}
+
+
+.sub
+{
+   display: table-cell;
+   
+
+   
+}
+
+#sub1{
+   
+    height: 280px;
+    width: 560px;
+    background-color: rgb(209, 209, 209);
+    padding-right: 350px;
+}
+
+.jus
+{
+    text-align: justify;
+    padding-right: 25px;
+    padding-left: 25px;
+    
+}
+.head
+{
+    padding-left: 25px;
+}
+.wt
+{
+    width: 80%;
+}

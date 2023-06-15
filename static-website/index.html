@@ -1,0 +1,73 @@
+<html>
+    <head>
+        <script src="index.js"></script>
+       
+        <link href="index.css" rel="stylesheet">
+        <link href="second.css" rel="stylesheet">
+    </head>
+    <body>
+        <div id="header">
+            <div id="title">ABC Inc </div>
+            <div id="menu">
+                <ul>
+                    <li> Home</li>
+                    <li> Projects</li>
+                    <li> Clients </li>
+                    <li> Products</li>
+                    <li> Reach us</li>
+                </ul>
+            </div>
+        </div>
+
+        <div id="slide-area">
+            <div id="slide-show">
+                <img src="first.jpg" id="img1">
+                
+                <img src="left.png" id="left-icon" class="icon" 
+                onClick="changeImage('left')">
+                <img src="right.png" id="right-icon" class="icon"
+                  onClick="changeImage('right')">
+
+
+
+
+                  
+                  <!-- <img id="myImage" src="second.jpeg"  id="down-icon"  class="icon" alt="Image"> -->
+            </div>          
+        </div>
+
+       
+        <script>
+            function showAlert() {
+              alert("Hello!");
+            }
+          </script>
+
+        <img src="images/up.png" id="up-icon" class="icon"
+            onClick="hideContainer()">
+
+            <img src="images/down.png" id="down-icon" class="icon"
+            onClick="showContainer()">
+
+            <img src="images/Fb.png" id="fb-icon" class="icon"
+            onClick="shareOnFacebook()">
+            <img src="images/Insta.png" id="insta-icon" class="icon"
+            onClick="shareOnInsta()">
+
+            <!-- <a href="https://www.instagram.com/https://instagram.com/thamos_michael.25?igshid=NTc4MTIwNjQ2YQ==/">Visit Instagram Profile</a> -->
+
+            <!-- <script async defer crossorigin="anonymous" src="https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v12.0&appId=YOUR_APP_ID&autoLogAppEvents=1" nonce="YOUR_NONCE_VALUE"></script> -->
+            
+
+            <div id="services-wrapper">
+
+        </div>
+      
+        <div id="footer">
+            &copy; all copyrights reserved, ABC inc 2023
+
+        </div>
+    </body>
+    <script src="data.js"></script>
+
+</html>

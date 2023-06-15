@@ -1,0 +1,13 @@
+/* You can add global styles to this file, and also import other style files */
+#fb-icon {
+    position: absolute;
+    top: 170px;
+    right: 10;
+    margin-right: 10px;
+}
+#insta-icon {
+    position: absolute;
+    top: 200px;
+    right: 10;
+    margin-right: 10px;
+}

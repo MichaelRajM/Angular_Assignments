@@ -1,0 +1,45 @@
+#image-area{
+    contain-intrinsic-width: 100*400;
+}
+
+#left-icon {
+    position: absolute;
+    top: 50px;
+    left: 4%;
+}
+
+#left{
+    height: 40px;
+    position: absolute;
+    top:40%;
+    left:40%;
+    margin-top: 25px;
+}
+#left:hover{
+    transform: scale(1.5,1.5);
+}
+#right:hover{
+    transform: scale(1.5,1.5);
+}
+#right{
+    height: 40px;
+    position: absolute;
+    top:40%;
+    right: 50%;
+    margin-top: 25px;
+}
+    
+#insta-icon{
+    height: 40px;
+    position: absolute;
+    top:40%;
+    right: 2%;
+    margin-top: 25px;
+}
+#fb-icon{
+    height: 40px;
+    position: absolute;
+    top:40%;
+    right: 5%;
+    margin-top: 25px;
+}
