@@ -7,8 +7,8 @@ import { Component } from '@angular/core';
 })
 export class MaincomponentComponent {
   tittles =[
-    {title:"Header",content:"Lorem ipsum dolor sit amet;consectetuer adipiscing elit.sed diam nanummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat"},
-    {title:"Sub-header",content:"The 21st Century Challenge of Healthcare Living a healthy life is a basic human need. Research shows that health care services are only one of a range of factors affecting peoples’ health. As multiple research reports show, an individual’s health behaviours and physical environment are the key drivers, with health services themselves only influencing 10% to 20% of health outcomes."}
+    {title:"Header",content:"ABC inc provides extensive service by way of turn key projects, consultancy, manpower support, onsite and online support during and post implementation. Handholding and guidance is our key strength to be in this industry for more than 25 years."},
+    {title:"Sub-header",content:"ABC inc have a combined managent experience of more than 100 years in the jewellery domain. Jilaba is managed by Mr.S.Balagee, Managing Director and Corporate Advisor Mr. S.Jambu Mahadevan, Chartered Accountant. The core management team has the President, Vice President, General Manager, Regional Manager-West and Project Manager ably supporting the top management. The company has the manpower strength that are spread between Head Office at Chennai, Branch Office at Mumbai and also across India for onsite support.Jilaba has deployed efficient customer support executives across India who extend maximum guidance and hand-holding support to clients."}
     
   ];
 
